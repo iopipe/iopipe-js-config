@@ -1,3 +1,3 @@
 module.exports = {
-  plugins: ['@iopipe/trace', '@iopipe/profiler']
+  plugins: ['@iopipe/trace']
 };
