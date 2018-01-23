@@ -1,7 +1,7 @@
 {
   "name": "@iopipe/config",
-  "version": "0.2.1",
-  "description": "A more opinionated default agent config",
+  "version": "0.3.0",
+  "description": "A more opinionated default IOpipe agent config",
   "main": "index.js",
   "scripts": {
     "test": "echo \"no tests specified\" && exit 0"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/iopipe/iopipe-js-config/issues"
   },
-  "homepage": "https://github.com/iopipe/iopipe-js-config#readme"
+  "homepage": "https://github.com/iopipe/iopipe-js-config#readme",
+  "dependencies": {
+    "@iopipe/trace": "^0.3.0"
+  }
 }
