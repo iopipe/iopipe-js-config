@@ -2,6 +2,12 @@
 # yarn lockfile v1
 
 
+"@iopipe/event-info@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@iopipe/event-info/-/event-info-0.1.0.tgz#ba95af4ea778c0088192a6ef4f6e5f1674be7f66"
+  dependencies:
+    lodash.get "^4.4.2"
+
 "@iopipe/trace@^0.3.0":
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/@iopipe/trace/-/trace-0.3.0.tgz#42a558da9c7d310d15f09fddb490fbb7ebbbf399"
@@ -54,6 +60,10 @@ js-yaml@^3.9.0:
   dependencies:
     argparse "^1.0.7"
     esprima "^4.0.0"
+
+lodash.get@^4.4.2:
+  version "4.4.2"
+  resolved "https://registry.yarnpkg.com/lodash.get/-/lodash.get-4.4.2.tgz#2d177f652fa31e939b4438d5341499dfa3825e99"
 
 parse-json@^3.0.0:
   version "3.0.0"
