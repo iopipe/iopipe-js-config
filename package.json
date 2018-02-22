@@ -1,6 +1,6 @@
 {
   "name": "@iopipe/config",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "A more opinionated default IOpipe agent config",
   "main": "index.js",
   "scripts": {
