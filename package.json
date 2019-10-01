@@ -1,6 +1,6 @@
 {
   "name": "@iopipe/config",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "description": "A more opinionated default IOpipe agent config",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,6 @@
   "dependencies": {
     "@iopipe/event-info": "^1.3.2",
     "@iopipe/profiler": "^2.1.2",
-    "@iopipe/trace": "^1.6.0"
+    "@iopipe/trace": "^1.6.1"
   }
 }

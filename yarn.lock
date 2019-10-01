@@ -19,10 +19,10 @@
     lodash.get "^4.4.2"
     simple-get "^3.0.3"
 
-"@iopipe/trace@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@iopipe/trace/-/trace-1.6.0.tgz#69ecbd94b84397481107fa23d2d5ea3ad5bf7b11"
-  integrity sha512-nprhHCV7uwOHo3pL9jpRkM02jCRUEAoJr1qCmCaGyRkJdOQxqDB51K1p/Q//xJrEmOexM9u4EZprUMdqzXrDkg==
+"@iopipe/trace@^1.6.1":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@iopipe/trace/-/trace-1.6.1.tgz#83ad6ddb109c8812d4ed6d7ce013b6ac1f4b7a7c"
+  integrity sha512-3VwVwBf31qku0os+qJtGNIYIPfYayS39ZJ7JuQvJVpK54e8VGaypmah8iFXK3pvpZW3DylZkjTnpwlGLWEZgZg==
   dependencies:
     flat "^4.0.0"
     isarray "^2.0.4"
